@@ -7,13 +7,13 @@
 // Description : main user page - allows test selection
 //
 // Author: Nicola Asuni
-//helloword
+//
 // (c) Copyright:
 //               Nicola Asuni
 //               Tecnick.com LTD
 //               www.tecnick.com
 //               info@tecnick.com
-//
+//lj7010
 // License:
 //    Copyright (C) 2004-2012  Nicola Asuni - Tecnick.com LTD
 //    See LICENSE.TXT file for more information.
