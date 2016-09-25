@@ -13,7 +13,7 @@
 //               Tecnick.com LTD
 //               www.tecnick.com
 //               info@tecnick.com
-//lj7010
+//lj70102
 // License:
 //    Copyright (C) 2004-2012  Nicola Asuni - Tecnick.com LTD
 //    See LICENSE.TXT file for more information.
